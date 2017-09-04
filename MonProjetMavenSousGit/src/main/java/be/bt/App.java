@@ -15,7 +15,14 @@ public class App
     {
         System.out.println( "Hello World!" );
         showLoggingFrameworks();
+        showPoolingFrameworks();
     }
+
+	private static void showPoolingFrameworks() {
+		// TODO Auto-generated method stub
+		System.out.println("=======  HickariCP  ========");
+		System.out.println("=======  C3PO  ========");
+	}
 
 	private static void showLoggingFrameworks() {
 		// TODO Auto-generated method stub
