@@ -6,7 +6,12 @@ package be.bt;
  */
 public class App 
 {
-    public static void main( String[] args )
+    /**
+     * 
+     * Commentaire ajouter sur la main du programme principal
+     */
+	
+	public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
         showLoggingFrameworks();
