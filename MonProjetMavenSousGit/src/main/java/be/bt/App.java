@@ -15,5 +15,6 @@ public class App
 	private static void showLoggingFrameworks() {
 		// TODO Auto-generated method stub
 		System.out.println("======= LOG4J ===============");
+		System.out.println("======= SLF4J Facade ===============");
 	}
 }
